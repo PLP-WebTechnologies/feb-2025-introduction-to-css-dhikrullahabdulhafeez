@@ -1,0 +1,31 @@
+/* Selector 1: Class */
+.main-heading {
+  font-family: 'Arial', sans-serif;
+  color: #2c3e50;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Selector 2: ID */
+#intro-text {
+  font-size: 18px;
+  color: #34495e;
+  margin: 10px 20px;
+}
+
+/* Selector 3: Element */
+img {
+  display: block;
+  margin: 20px auto;
+  border: 5px solid #3498db;
+  width: 250px; height: autoX;
+}
+
+/* Additional class for margin, padding, and borders */
+.content-box {
+  margin: 30px;
+  padding: 20px;
+  border: 2px dashed #95a5a6;
+  background-color: #ecf0f1;
+  font-family: 'Georgia', serif;
+}
